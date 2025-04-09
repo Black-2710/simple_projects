@@ -1,2 +1,1 @@
-# CODSOFT
-Internship project-app development
+nvm...just trying out things
